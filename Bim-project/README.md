@@ -1,5 +1,5 @@
 
-The project can be viewed on http://dragonchick.at/bimangulargroupproject
+The project can be viewed on http://bimprojectangular.dragonchick.at/
 
 # History
 
