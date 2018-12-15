@@ -1,3 +1,13 @@
+# History
+
+This project was developed with Dominic Wieser as project leader at CodeFactory in 2018. 
+The login system together with parts of the Javascript code were developed by me. Isabelle together with Dominic Klenk were working on the layout, graphics and forms. 
+
+# Description and User Story
+
+The purpose was to use Angular and Firebase to make a homepage where a supposed company called BIM could present courses which were stored in the Firebase database. The login system was JavaScript based and the passwords were stored as hashes. The logged in and registered user could book courses. 
+
+
 # BimProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.8.
