@@ -1,7 +1,10 @@
+
+The project can be viewed on http://dragonchick.at/bimangulargroupproject
+
 # History
 
 This project was developed with Dominic Wieser as project leader at CodeFactory in 2018. 
-The login system together with parts of the Javascript code were developed by me. Isabelle together with Dominic Klenk were working on the layout, graphics and forms. 
+The login system together with parts of the Javascript code were developed by me. Isabel together with Dominic Klenk were working on the layout, graphics and forms. 
 
 # Description and User Story
 
